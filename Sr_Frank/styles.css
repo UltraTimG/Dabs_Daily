@@ -1,11 +1,10 @@
 /*this is a css file*/
 body{
-    background: linear-gradient(to right, green, white, red);
+    background: linear-gradient(to right, orange, white, rgb(46, 43, 43));
     
 }
 h1 {
-    color: rgb(253, 7, 7);
-    background-color: rgb(255, 153, 0);
+    color: rgb(0, 0, 0);
     text-align:center ;
     padding: 1.5rem;
     width: 30rem;
@@ -25,10 +24,7 @@ a{
     padding: 1rem;
 }
 button:hover{
-    background-color: brown;
-}
-a:hover {
-    background-color: rgb(0, 47, 255);
+    background-color: rgb(111, 0, 255);
 }
 
 nav{
@@ -36,37 +32,4 @@ nav{
   text-align: center;
   padding: 2rem;
 }
-/*These are classes in the index page.*/
-.mom{
-    color: yellow;
-    width: 50%;
-    padding-left: 35rem;
-}
-#mom_p2{
-    color: black;
-}
 
-.dad {
-    color: rgb(255, 0, 0);
-    width: 50%;
-    padding-left: 5rem;   
-}
-#dad_p2{
-    color: black;
-}
-.keni {
-    color: rgb(255, 0, 200);   
-    width: 50%;
-    padding-left: 35rem;
-}
-#keni_p2{
-    color: black;
-}
-.ultra{
-    color: rgb(255, 145, 0);
-    width: 50%;
-    padding-left: 5rem;  
-}
-#ultra_p2{
-    color: black;
-}
